@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Mano puslapis</title>
+        <link>https://DrKorok.github.io/posts/</link>
+        <description>Recent content in Posts on Mano puslapis</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://DrKorok.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Pirmas Įrašas</title>
+            <link>https://DrKorok.github.io/posts/pirmas/</link>
+            <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://DrKorok.github.io/posts/pirmas/</guid>
+            <description>&lt;p&gt;Čia yra pirmas mano puslapio įrašas!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sudaryta Alekso Baceno&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+            <content type="html"><![CDATA[<p>Čia yra pirmas mano puslapio įrašas!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>echo <span style="color:#e6db74">&#34;Sudaryta Alekso Baceno&#34;</span>
+</span></span></code></pre></div>]]></content>
+        </item>
+        
+    </channel>
+</rss>
