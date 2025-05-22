@@ -9,11 +9,18 @@
     <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://DrKorok.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Apie</title>
+      <link>https://DrKorok.github.io/apie/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://DrKorok.github.io/apie/</guid>
+      <description>&lt;p&gt;Vardas: Aleksas Bačėnas.&lt;/p&gt;&#xA;&lt;p&gt;Grupė: ITnt-24.&lt;/p&gt;&#xA;&lt;p&gt;Paštas: &lt;a href=&#34;mailto:aleksas.bacenas@stud.vilniustech.lt&#34;&gt;aleksas.bacenas@stud.vilniustech.lt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Pirmas Įrašas</title>
       <link>https://DrKorok.github.io/posts/pirmas/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <guid>https://DrKorok.github.io/posts/pirmas/</guid>
-      <description>&lt;p&gt;Čia yra pirmas mano puslapio įrašas!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sudaryta Alekso Baceno&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Žemiau matote paveikslėlį:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://DrKorok.github.io/images/labdarbas.png&#34; alt=&#34;Vaizdas&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Čia yra pirmas mano puslapio įrašas!&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sudaryta Alekso Bačėno&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Žemiau matote paveikslėlį:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://DrKorok.github.io/images/labdarbas.png&#34; alt=&#34;Vaizdas&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
